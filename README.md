@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @beranju sihombing
+# Hello :)
+- 👋 I’m @beranju sihombing
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web programming 
+- 📫 find me on [instagram](https://instagram.com/beranju_)
 
 <!---
 ribakmasude/ribakmasude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
