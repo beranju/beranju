@@ -1,7 +1,7 @@
 # Hello :)
 - 👋 I’m @beranju sihombing
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning web programming 
+- 👀 I’m interested in Android development
+- 🌱 I’m currently learning Android developmet
 - 📫 find me on [instagram](https://instagram.com/beranju_) or [anakstudent](http://anakstudent.xyz)
 
 <!---
